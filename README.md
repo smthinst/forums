@@ -1,2 +1,14 @@
-# forums
-Hello, I'm uqgv, a passionate filmmaker dedicated to crafting compelling stories that captivate the audience. With a background in visual storytelling, I constantly strive to push the boundaries of creativity and deliver an immersive cinematic experience.
+# Foodinggs Delivery App
+Figma Link: https://www.citmanu.com/file/ApDJ1q8HkRoB9kDshBtBZ6/Food-Delivery-App
+
+![App Image](https://raw.githubusercontent.com/berkaltiok/food-delivery/master/banner.jpg)
+
+## Install Project
+```
+npm install
+```
+
+## Start Project
+```
+npm run start
+```
